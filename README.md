@@ -13,7 +13,7 @@ ESP8266 based  HomeKit Dehumidifier
 <br/>
 
 
-For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/Homekit-WS2812B-controller/wiki/Build-Instructions) Wiki page!<br/><br/>
+For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Dehumidifier/wiki/Build-Instructions) Wiki page!<br/><br/>
 
 **Demo:**
 
