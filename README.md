@@ -12,10 +12,11 @@ ESP8266 based  HomeKit Dehumidifier using an SHT3x temperature/humidity senso
 <br/>
 
 
-## For more information please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Dehumidifier/wiki/Build-Instructions) Wiki page!<br/><br/>
+## This HomeKit enabled Dehumidifier requires a custom PCB and the exact same [XROW600B Dehumidifier](http://s.click.aliexpress.com/e/_dYK2ZZ6)! 
 
 
-**This HomeKit enabled Dehumidifier requires a custom PCB and the exact same [XROW600B Dehumidifier](http://s.click.aliexpress.com/e/_dYK2ZZ6)!** 
+
+### For more information please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Dehumidifier/wiki/Build-Instructions) Wiki page!
 
 
 
