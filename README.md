@@ -1,25 +1,44 @@
-# ESP8266 HomeKit Dehumidifier
-ESP8266 based  HomeKit Dehumidifier
-
-## WORK IN PROGRESS!!!!
+# ESP8266 based  HomeKit [Dehumidifier](http://s.click.aliexpress.com/e/_dYK2ZZ6)
+ESP8266 based  HomeKit Dehumidifier using an SHT3x temperature/humidity sensor and a cheap AliExpress XROW600B Dehumidifier with a custom PCB.
 
 ------
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/homekidd?label=Follow&logo=instagram&style=social)](https://www.instagram.com/homekidd) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/HomeKiid?label=Like&logo=facebook&style=social)](https://www.facebook.com/HomeKiid) [![YouTube URL](https://img.shields.io/twitter/url/https/www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA?label=Follow&logo=youtube&style=social)](https://www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA)
 ------
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/Homekit-WS2812B-controller/total?color=yellow)](https://github.com/HomeKidd/Homekit-WS2812B-controller/releases) [![GitHub repo size](https://img.shields.io/github/repo-size/HomeKidd/Homekit-WS2812B-controller)](https://github.com/HomeKidd/Homekit-WS2812B-controller/archive/master.zip
-) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYEK69ZYG69S&source=url)
+[![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/ESP8266-HomeKit-Dehumidifier/total?color=green)](https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280-Elgato-Eve/releases) 
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/ESP8266-HomeKit-Dehumidifier?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/ESP8266-HomeKit-Dehumidifier/releases) 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYEK69ZYG69S&source=url)
 <br/>
 <br/>
 
 
-For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Dehumidifier/wiki/Build-Instructions) Wiki page!<br/><br/>
+## For more information please read the [Build Instructions](https://github.com/HomeKidd/ESP8266-HomeKit-Dehumidifier/wiki/Build-Instructions) Wiki page!<br/><br/>
+
+
+**This HomeKit enabled Dehumidifier requires a custom PCB and the exact same [XROW600B Dehumidifier](http://s.click.aliexpress.com/e/_dYK2ZZ6)!** 
+
+
+
+**Features:**
+
+* Humidity Measuring
+* Set up Target Humidity
+* Power Button
+* Controlling fan speed
+* Water Level _(LED lights up when the Tank is full)_
+* Reset button 
+
+
+<br/>
+<br/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/homekid_ffmockup_2.jpg" class="center" width="650"/>
+
+<br/>
 
 **Demo:**
 
-[![](http://img.youtube.com/vi/TG9xq7ith0k/0.jpg)](http://www.youtube.com/watch?v=TG9xq7ith0k "Demo Video")
 <br/>
-<img src="https://github.com/HomeKidd/Homekit-WS2812B-controller/raw/master/Images/demo.jpg" class="center" width="500"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/ifos.gif" class="center" width="250"/>
 
 <br/>
 <br/>
