@@ -1,5 +1,5 @@
 # ESP8266 based  HomeKit [Dehumidifier](http://s.click.aliexpress.com/e/_dYK2ZZ6)
-ESP8266 based  HomeKit Dehumidifier using an SHT3x temperature/humidity sensor and a cheap AliExpress XROW600B Dehumidifier with a custom PCB.
+ESP8266 based  HomeKit Dehumidifier using an [SHT3X](http://s.click.aliexpress.com/e/qAfJeXuk) temperature/humidity sensor and a cheap AliExpress XROW600B Dehumidifier with a custom PCB.
 
 ------
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/homekidd?label=Follow&logo=instagram&style=social)](https://www.instagram.com/homekidd) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/HomeKiid?label=Like&logo=facebook&style=social)](https://www.facebook.com/HomeKiid) [![YouTube URL](https://img.shields.io/twitter/url/https/www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA?label=Follow&logo=youtube&style=social)](https://www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA)
@@ -22,7 +22,7 @@ ESP8266 based  HomeKit Dehumidifier using an SHT3x temperature/humidity senso
 
 **Features:**
 
-* Humidity Measuring
+* Humidity Measuring using [SHT3x sensor](http://s.click.aliexpress.com/e/qAfJeXuk)
 * Set up Target Humidity
 * Power Button
 * Controlling fan speed
