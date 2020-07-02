@@ -24,10 +24,9 @@ ESP8266 based  HomeKit Dehumidifier using an [SHT3X](http://s.click.aliexpres
 
 * Humidity Measuring using [SHT3x sensor](http://s.click.aliexpress.com/e/qAfJeXuk)
 * Set up Target Humidity
-* Power Button
 * Controlling fan speed
-* Water Level _(LED lights up when the Tank is full)_
-* Reset button 
+* Water Level _(via LEDs and auto power-off when Tank is full)_
+* Power/Reset Button
 
 
 <br/>
