@@ -31,7 +31,7 @@ ESP8266 based  HomeKit Dehumidifier using an [SHT3X](http://s.click.aliexpres
 
 <br/>
 <br/>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/homekid_ffmockup_2.jpg" class="center" width="650"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Dehumidifier/raw/master/images/Kép.PNG" class="center" width="700"/>
 
 <br/>
 
